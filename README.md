@@ -5,3 +5,9 @@ Researched three topics:
 - are cyclists on the NYC streets safer today then 5 years ago
 - what is most likely to cause an accident?
 - what are the most dangerous areas of the city, and what are the most dangerous hours for cyclists and pedestrians?
+
+Deployment on github:
+https://nyc-traffic-accidents.github.io/#trends
+
+VIsualizations on Tableau public:
+https://public.tableau.com/profile/olga3069#!/vizhome/FinalProject4_15568155060210/DeneralStats
